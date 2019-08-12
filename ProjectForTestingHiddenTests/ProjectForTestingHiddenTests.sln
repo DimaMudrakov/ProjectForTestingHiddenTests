@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectForTestingHiddenTests", "ProjectForTestingHiddenTests\ProjectForTestingHiddenTests.csproj", "{B065C5D5-7EA4-4949-A2FC-6A10095D0891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectForTestingHiddenTests.Tests", "ProjectForTestingHiddenTests.Tests\ProjectForTestingHiddenTests.Tests.csproj", "{D27C8A25-0ACA-48D7-A226-5AE097FF8A74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B065C5D5-7EA4-4949-A2FC-6A10095D0891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B065C5D5-7EA4-4949-A2FC-6A10095D0891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B065C5D5-7EA4-4949-A2FC-6A10095D0891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B065C5D5-7EA4-4949-A2FC-6A10095D0891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D27C8A25-0ACA-48D7-A226-5AE097FF8A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27C8A25-0ACA-48D7-A226-5AE097FF8A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27C8A25-0ACA-48D7-A226-5AE097FF8A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27C8A25-0ACA-48D7-A226-5AE097FF8A74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {711C7A67-0A9C-425B-8152-22BA94E84E2C}
+	EndGlobalSection
+EndGlobal
